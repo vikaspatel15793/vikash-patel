@@ -14,6 +14,7 @@ Java | | |
 | | Java | [activemq-camel](https://github.com/vikaspatel15793/activemq-camel) | Java
 | | Java | [Cloudinary-File-Upload](https://github.com/vikaspatel15793/Cloudinary-File-Upload) | Java
 | | Java | [tutorials](https://github.com/vikaspatel15793/tutorials) | Java, XSLT, JavaScript, HTML, CSS, TypeScript
+| | Java | [jhipster_uaa](https://github.com/vikaspatel15793/jhipster_uaa) | Java, TypeScript, HTML, CSS, JavaScript
 TypeScript | | |
 | | TypeScript | [todoApp](https://github.com/vikaspatel15793/todoApp) | TypeScript, Java, HTML, Javascript, CSS
 | | TypeScript | [spring-boot-2-angular-6](https://github.com/vikaspatel15793/spring-boot-2-angular-6) | TypeScript, Java, HTML, Javascript, CSS
